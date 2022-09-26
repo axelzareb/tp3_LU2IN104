@@ -1,0 +1,18 @@
+/* Feuille de styles */
+
+.paragraphe {
+    text-align: justify;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.miniature {
+    padding-bottom: 10px;
+}
+
+.miniature:hover {
+    border-bottom: 6px solid #ddd;
+}
+
